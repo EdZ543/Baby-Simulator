@@ -5,6 +5,8 @@ A game made in 72 hours for the game jam Ludum Dare 46, for the theme "keep it a
 
 It got first place in the Fun and Humor category, out of almost 5000 submissions!!
 
+Made with Unity
+
 Check its Ludum Dare profile here: https://ldjam.com/events/ludum-dare/46/$187556
 
 Play the game here: https://edz123.itch.io/baby-simulator
